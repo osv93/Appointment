@@ -1,0 +1,124 @@
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.exe
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.deps.json
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.runtimeconfig.json
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.runtimeconfig.dev.json
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.dll
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.pdb
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.csprojAssemblyReference.cache
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\staticwebassets\Appointment.API.StaticWebAssets.Manifest.cache
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\staticwebassets\Appointment.API.StaticWebAssets.xml
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.AssemblyInfoInputs.cache
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.AssemblyInfo.cs
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.RazorTargetAssemblyInfo.cache
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.dll
+C:\Users\Gaby\Documents\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.pdb
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.exe
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.deps.json
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.runtimeconfig.json
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.runtimeconfig.dev.json
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.pdb
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.AssemblyInfoInputs.cache
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.AssemblyInfo.cs
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.RazorTargetAssemblyInfo.cache
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.csproj.CopyComplete
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\staticwebassets\Appointment.API.StaticWebAssets.Manifest.cache
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\staticwebassets\Appointment.API.StaticWebAssets.xml
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.pdb
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.genruntimeconfig.cache
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.csproj.CoreCompileInputs.cache
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\osv_9\OneDrive\Documentos\Osvaldo\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.csproj.CoreCompileInputs.cache
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.AssemblyInfoInputs.cache
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.AssemblyInfo.cs
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.pdb
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.exe
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.deps.json
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.runtimeconfig.json
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.runtimeconfig.dev.json
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Appointment.API.pdb
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.RazorTargetAssemblyInfo.cache
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.csproj.CopyComplete
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\staticwebassets\Appointment.API.StaticWebAssets.Manifest.cache
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\staticwebassets\Appointment.API.StaticWebAssets.xml
+C:\Users\osv_9\OneDrive\Documentos\Git Repositories\API_Appointment\Appointment.API\Appointment.API\obj\Debug\netcoreapp3.1\Appointment.API.genruntimeconfig.cache
