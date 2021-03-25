@@ -10,17 +10,20 @@ using Appointment.API.Data;
 using AutoMapper;
 using System;
 using Appointment.API.Data.Contracts;
+using WebApi.Helpers;
+using WebApi.Services;
 
 namespace Appointment.API
 {
     public class Startup
     {
+
+        public IConfiguration Configuration { get; }
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
-
-        public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
@@ -39,6 +42,10 @@ namespace Appointment.API
                     o.OutputFormatters.Add(new XmlDataContractSerializerOutputFormatter());
                 });
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+            services.Configure<AppSettings>(Configuration.GetSection("AppSettings"));
+
+            services.AddScoped<ISecurityService, SecurityService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -60,10 +67,13 @@ namespace Appointment.API
             .AllowAnyMethod()
             .AllowAnyHeader());
 
+            app.UseMiddleware<JwtMiddleware>();
+
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
             });
+
         }
     }
 }

@@ -21,6 +21,7 @@ namespace Appointment.API.Controllers
             _mapper = mapper;
         }
 
+        [Authorize]
         [HttpGet]
         public async Task<IActionResult> GetAllPatientsAsync()
         {
